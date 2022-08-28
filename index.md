@@ -1,5 +1,5 @@
 ---
-title: Welcome to my first page!
+title: Welcome to my first published thing!
 author: TC
 ---
 
