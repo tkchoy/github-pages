@@ -1,7 +1,9 @@
 ---
-title: Welcome to my first published thing!
+title: Welcome to my index!
 author: TC
 ---
+
+Aug 29 Thing
 
 What will this be for?
 
